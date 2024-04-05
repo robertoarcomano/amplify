@@ -1,8 +1,13 @@
 # amplify
 
-## Install
+## Requirements
 ```
 sudo npm install -g @aws-amplify/cli
+npx
+```
+
+## Install
+```
 amplify init         
 amplify add api
 pip3 install amplify
